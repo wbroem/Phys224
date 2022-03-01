@@ -1,1 +1,0 @@
-This is a repo for the analyses of the labs for Phys 224 at the University of Louisville, to be used as an example for the GTAs in the lab.
